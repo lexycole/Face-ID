@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("This app utilise face ID Authentication")
+        Text("This app utilize face ID Authentication")
             .padding()
     }
 }
